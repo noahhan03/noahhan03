@@ -1,4 +1,7 @@
-![header](https://capsule-render.vercel.app/api?type=Cylinder&text=NOAHHAN)
+<div align="center">
+  ![header](https://capsule-render.vercel.app/api?type=Cylinder&text=NOAHHAN)
+</div>
+
 ### Hi there 👋
 
 - 🔭 I’m currently working on Hanyang University.
