@@ -6,9 +6,9 @@
 ### Hi there 👋                                                                                               **GitHub Stats:**
 
 - 🔭 I’m currently working on Hanyang University.
--                                                                                                             <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=noahhan03&layout=compact"><br><br>
+                                                                                                            <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=noahhan03&layout=compact"><br><br>
 - 🌱 I’m currently learning CPP.
--                                                                                                             <img src="https://github-readme-stats.vercel.app/api?username=noahhan03&show_icons=true">
+                                                                                                             <img src="https://github-readme-stats.vercel.app/api?username=noahhan03&show_icons=true">
 - 📫 How to reach me: noahhan03(instargram)
 
 
