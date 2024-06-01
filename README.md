@@ -7,7 +7,7 @@
 
 - 🔭 I’m currently working on Hanyang University.
                                                                                                            
-- 🌱 I’m currently learning CPP.
+- 🌱 I’m currently learning CPP
                                                                                                              
 - 📫 How to reach me: noahhan03(instargram)
 
