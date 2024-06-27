@@ -1,18 +1,13 @@
-<div align="center">
-  
+<div align="center">  
   ![header](https://capsule-render.vercel.app/api?type=Cylinder&text=NOAHHAN)
 </div>
 
-### Hi there 👋                                                                                              
-
+### Nice to meet u 👋                                                                                              
 - 🔭 I’m currently working on Hanyang University.
                                                                                                            
 - 🌱 I’m currently learning CPP
-                                                                                                             
+                                                                                      
 - 📫 How to reach me: noahhan03(instargram)
-
- **GitHub Stats:**
-
 
  ## 💡 Misc
  ![NOAHHAN's GitHub stats](https://github-readme-stats.vercel.app/api?username=noahhan03&theme=chartreuse-dark&show_icons=true)
