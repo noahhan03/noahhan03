@@ -11,8 +11,10 @@
                                                                                       
 - 📫 How to reach me: noahhan03(instargram)
 -->
- ## 💡 Misc
- ![NOAHHAN's GitHub stats](https://github-readme-stats.vercel.app/api?username=noahhan03&theme=chartreuse-dark&show_icons=true)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=noahhan03&layout=compact&theme=dark&exclude_repo=madcamp_week3)](https://github.com/anuraghazra/github-readme-stats)
+## 💡 Misc
 
-[![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=gksshdk)](https://solved.ac/gksshdk/)
+![NOAHHAN's GitHub stats](https://github-readme-stats.vercel.app/api?username=noahhan03&theme=chartreuse-dark&show_icons=true&v=2)
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=noahhan03&layout=compact&theme=dark&exclude_repo=madcamp_week3&v=2)
+
+[![Solved.ac Profile](https://mazassumnida.wtf/api/v2/generate_badge?boj=gksshdk)](https://solved.ac/gksshdk)
